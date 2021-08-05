@@ -1,5 +1,5 @@
 # talataa-engine
-2D game engine with missing features from anothers engine. Full lighting support, easy particles system, 3D sprites...
+**2D game engine** with missing features from anothers engine. Full lighting support, easy particles system, 3D sprites...
 
 Features:
 - [ ] lighting
